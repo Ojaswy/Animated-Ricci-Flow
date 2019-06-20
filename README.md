@@ -6,6 +6,6 @@ Here, You can watch the animation of a curve turning into a singularity by Ricci
 
 Steps Involved:
 
-(i) Drawing/Giving the input of a closed curver
+(i) Drawing a closed curver
 
 (ii) Smoothing it

@@ -10,3 +10,4 @@ Steps Involved:
 
 (ii) Smoothing it
  
+  

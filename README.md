@@ -6,7 +6,7 @@ Here, You can watch the animation of a curve turning into a singularity by ```Ri
 
 Steps Involved: 
 
-(i) Drawing a closed curve
+(i) Drawing a closed curve 
 
 (ii) Smoothing it
   

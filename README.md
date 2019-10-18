@@ -9,6 +9,6 @@ Steps Involved:
 (i) Drawing a closed curve 
 
 (ii) Smoothing it 
-  
+    
   
  

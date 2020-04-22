@@ -10,7 +10,7 @@ Steps Involved:
 
 (ii) Smoothing it   
      
-[https://www.youtube.com/watch?v=hwOCqA9Xw6A](this)
+![https://www.youtube.com/watch?v=hwOCqA9Xw6A](this)
    
   
  
